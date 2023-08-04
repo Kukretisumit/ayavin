@@ -233,6 +233,6 @@ p{
 }
 @media (min-width:240px) and (max-width:1200px) {
     .ans{
-        display: none;
+        display: none !important;
     }
 }
